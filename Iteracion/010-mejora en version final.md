@@ -1,0 +1,1 @@
+# Añadiremos un mini panel de control con estadísticas
